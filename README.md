@@ -80,4 +80,4 @@ For each attack:
 
 📸 *Example case study diagram:*  
 
-![Example Attack](images/commonspirit.png)
+![Example Attack](images/commonspirit.jpeg)
