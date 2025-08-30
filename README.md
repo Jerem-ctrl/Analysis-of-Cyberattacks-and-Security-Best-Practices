@@ -29,8 +29,7 @@ Pour chaque attaque étudiée :
 8. Schéma explicatif  
 
 ### 📂 Contenu du dépôt
-- `/docs` → documents du projet (PDF de consignes, rapport)  
-- `/slides` → support de présentation (diaporama)  
+- `/docs` → documents du projet (PDF de consignes, support de présentation)
 - `/case-studies` → un fichier `.md` par cyberattaque analysée  
 - `/images` → schémas et illustrations des attaques  
 - `README.md` → résumé et présentation du projet  
@@ -66,8 +65,7 @@ For each attack:
 8. Attack diagram  
 
 ### 📂 Repository content
-- `/docs` → project documentation (PDF, methodology, reports)  
-- `/slides` → presentation slides  
+- `/docs` → project documentation (PDF, methodology, presentation slides)  
 - `/case-studies` → one `.md` file per studied cyberattack  
 - `/images` → attack diagrams and schematics  
 - `README.md` → summary and project presentation  
