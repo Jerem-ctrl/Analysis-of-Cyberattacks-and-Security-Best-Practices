@@ -1,4 +1,4 @@
-# 🔐 Cybersecurity Case Studies – IT Hygiene & Security  
+# Cybersecurity Case Studies – IT Hygiene & Security  
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-red)
